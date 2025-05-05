@@ -1,3 +1,9 @@
 Flask
 pandas
 xlsxwriter
+pytesseract
+pdf2image
+camelot-py[cv]
+opencv-python-headless
+PyPDF2
+Pillow
